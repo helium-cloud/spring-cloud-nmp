@@ -1,0 +1,8 @@
+rootProject.name = 'spring-cloud-nmp'
+
+//snmp
+include 'snmp:spring-cloud-snmp-server-starter'
+include 'snmp:spring-cloud-snmp-starter'
+include 'simple:spring-cloud-snmp-simple'
+
+
